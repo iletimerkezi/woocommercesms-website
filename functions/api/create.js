@@ -93,7 +93,7 @@ async function sendEmail(form) {
     Merhaba,
     <br />
     <br />
-    Woocommerce SMS eklentiyi indirmek için <a href="https://woocommercesms.com/woocommercesms.zip">tıklayınız.</a>
+    Woocommerce SMS eklentiyi indirmek için <a href="https://woocommercesms.com/iletimerkezi-notify.zip">tıklayınız.</a>
     <br />
     <br />
     Kurulum aşamasında herhangi bir problem yaşarsanız, bizimle <b>0212-543-4210</b> veya
@@ -108,7 +108,7 @@ async function sendEmail(form) {
     Hello,
     <br />
     <br />
-    Click <a href="https://woocommercesms.com/woocommercesms.zip">to download the Woocommerce SMS plugin.</a>
+    Click <a href="https://woocommercesms.com/iletimerkezi-notify.zip">to download the Woocommerce SMS plugin.</a>
     <br />
     <br />
     If you have any problems during installation, contact us at <b>0212-543-4210</b> or
